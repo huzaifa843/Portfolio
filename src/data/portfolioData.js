@@ -176,7 +176,7 @@ export const leadershipList = [
    {
     // title: "Team Coordinator – Carrier Corporate Trainee",
       title: "Corporate Training Team Member",
-    description: "Represented Motivate Mee Academy by participating in corporate training sessions with my senior Corporate Trainer. Contributed to organizing and coordinating training activities, interacted with participants, and gained hands-on experience in corporate communication, teamwork, and leadership.",
+    description: "Worked as a team member with my senior Corporate Trainer during corporate training sessions. Supported the smooth execution of training programs and participant coordination. Gained hands-on experience in corporate communication and leadership.",
     role: "Team Coordinator",
     badge: "Leadership"
   },
@@ -217,9 +217,6 @@ export const internshipsList = [
     skills: [ "Frontend Development", "Backend Development", "Responsive Layouts", "API Testing", "Web Performance" ],
     tech: ["HTML", "CSS", "Javascript", "React JS", 'Node JS', "Next JS", "MySQL"]
   },
-
-
-
 
   {
     organization: "Cognifyz Technologies",
