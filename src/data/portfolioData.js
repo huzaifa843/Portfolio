@@ -214,8 +214,8 @@ export const internshipsList = [
     organization: "Infotect",
     role: "Software Development",
     duration: "Present",
-    skills: [ "Frontend Development", "Backend Development", "Responsive Layouts", "API Testing", "Web Performance" ],
-    tech: ["HTML", "CSS", "Javascript", "React JS", 'Node JS', "Next JS", "MySQL"]
+    skills: [ "Frontend Development", "Backend Development", "Responsive Layouts", "API Testing", "End to End Performance" ],
+    tech: ["HTML", "CSS", "Javascript", "React JS", 'Node JS', "Next JS", "Express JS", "MySQL"]
   },
 
   {
